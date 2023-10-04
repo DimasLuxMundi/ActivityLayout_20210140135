@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ProjectKelasC</string>
+    <string name="Name">Dimas</string>
+    <string name="NIM">20210140135</string>
+    <string name="HSR">Welcome</string>
+    <string name="HSRName">Take Your Time</string>
+    <string name="btnName">KELAS C</string>
+    <string name="Name2">Name:</string>
+    <string name="NameEdit">Enter your name</string>
+    <string name="phone">Phone Number:</string>
+    <string name="phoneedit">Enter your phone number</string>
+    <string name="address">Address:</string>
+    <string name="addressedit">"Enter your address "</string>
+    <string name="login">Login</string>
+    <string name="textlinear">Select your character</string>
+    <string name="btnlinear1">Right</string>
+    <string name="btnlinear2">Left</string>
+    <string name="btnlinear3">MATCH PARENT</string>
+</resources>
